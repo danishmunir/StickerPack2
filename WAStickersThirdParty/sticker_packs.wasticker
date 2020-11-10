@@ -1,0 +1,133 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "cuppyID",
+        "name": "Frenchie in 2020 !",
+        "publisher": "Poshy Couture LLC",
+        "tray_image_file" : "tray.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "s1.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s2.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s3.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s4.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s5.png",
+            "emojis": []
+        },
+                {
+            "image_file": "s6.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s7.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s8.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s9.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s11.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s12.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s13.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s14.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s15.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s16.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s17.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s18.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s19.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s20.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s21.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s22.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s23.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s24.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s25.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s26.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s27.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s28.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s29.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s30.png",
+            "emojis": []
+        }]
+    
+    }]
+    
+}
